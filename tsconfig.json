@@ -18,5 +18,5 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false
   },
-  "include": ["commitlint.config.ts"]
+  "include": ["**/*.ts", "**/*.tsx", "commitlint.config.ts"]
 }
